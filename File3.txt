@@ -1,1 +1,2 @@
 File3 Added, File content updated.
+Understand .Git and commit ids.
