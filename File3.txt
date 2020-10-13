@@ -2,3 +2,4 @@ File3 Added, File content updated.
 Understand .Git and commit ids.
 Main branch update
 Modified in Main branch to test Git Merge
+Modified in master branch to test git merge from Git
